@@ -777,7 +777,7 @@ void GUI_Interface::GUI__slot_load_flags()
         }
         setting_window->load_flags(autotest_flags);
     }
-    */
+
 }
 
 void GUI_Interface::GUI_load_settings(const QStringList & keys)
